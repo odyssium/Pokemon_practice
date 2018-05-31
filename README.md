@@ -1,8 +1,7 @@
-These files are exclusively for RIKEN CBS study group. 
-
 Pokemon Master Training
 
-This is the Jupyter notebook for python practice.
+These files are exclusively for RIKEN CBS lunch study group. 
+
 I recommand you to install python 3.6 through anaconda distribution.
 https://www.anaconda.com/download
 
