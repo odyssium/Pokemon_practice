@@ -1,2 +1,2 @@
 # Pokemon_practice
-Seaborn_practice
+Python_practice
